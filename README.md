@@ -31,5 +31,3 @@ Flyworld Tours is a modern React-based travel booking interface designed to disp
 
 ---
 
-## 📁 Project Structure
-
